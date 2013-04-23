@@ -112,6 +112,7 @@ PRODUCT_COPY_FILES += \
 	device/samsung/msm8960-common/keylayout/sec_powerkey.kl:system/usr/keylayout/sec_powerkey.kl \
 	device/samsung/msm8960-common/keylayout/sec_touchkey.kl:system/usr/keylayout/sec_touchkey.kl \
     device/samsung/msm8960-common/keylayout/Vendor_045e_Product_028e.kl:system/usr/keylayout/Vendor_045e_Product_028e.kl \
+    device/samsung/msm8960-common/keylayout/Vendor_045e_Product_0719.kl:system/usr/keylayout/Vendor_045e_Product_0719.kl \
     device/samsung/msm8960-common/keylayout/Vendor_046d_Product_c216.kl:system/usr/keylayout/Vendor_046d_Product_c216.kl \
     device/samsung/msm8960-common/keylayout/Vendor_046d_Product_c294.kl:system/usr/keylayout/Vendor_046d_Product_c294.kl \
     device/samsung/msm8960-common/keylayout/Vendor_046d_Product_c299.kl:system/usr/keylayout/Vendor_046d_Product_c299.kl \
